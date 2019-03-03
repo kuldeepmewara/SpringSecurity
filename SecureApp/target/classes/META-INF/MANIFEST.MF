@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SecureApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Mom
+Implementation-Vendor-Id: com.kuldeep
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SecureApp
+Created-By: Maven Integration for Eclipse
+
